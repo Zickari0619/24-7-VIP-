@@ -1,4 +1,4 @@
-#EXTINF:-1,24/7 | Cine Accion
+#EXTINF:-1,24/7 | CINE ACCIÓN 
 
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2544
 
